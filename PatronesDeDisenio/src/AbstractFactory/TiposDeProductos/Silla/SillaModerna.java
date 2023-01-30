@@ -1,4 +1,4 @@
 package AbstractFactory.TiposDeProductos.Silla;
 
-public class SillaModerna {
+public class SillaModerna extends Silla {
 }

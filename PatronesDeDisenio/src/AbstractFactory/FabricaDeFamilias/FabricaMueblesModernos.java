@@ -7,7 +7,7 @@ import AbstractFactory.TiposDeProductos.Silla.SillaModerna;
 import AbstractFactory.TiposDeProductos.Sofa.Sofa;
 import AbstractFactory.TiposDeProductos.Sofa.SofaModerno;
 
-public class FabricaMuebesModernos implements FabricaMuebles {
+public class FabricaMueblesModernos implements FabricaMuebles {
 
     public Silla fabricarSilla() {
         return new SillaModerna();

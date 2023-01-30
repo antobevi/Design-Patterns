@@ -1,4 +1,4 @@
 package AbstractFactory.TiposDeProductos.Mesa;
 
-public class MesaModerna {
+public class MesaModerna extends Mesa {
 }

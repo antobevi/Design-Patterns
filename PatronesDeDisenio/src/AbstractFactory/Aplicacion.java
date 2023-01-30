@@ -1,9 +1,9 @@
 package AbstractFactory;
 
 import AbstractFactory.FabricaDeFamilias.FabricaMuebles;
-import AbstractFactory.TiposDeProductos.Mesa.Mesa.Mesa;
-import AbstractFactory.TiposDeProductos.Silla.Silla.Silla;
-import AbstractFactory.TiposDeProductos.Sofa.Sofa.Sofa;
+import AbstractFactory.TiposDeProductos.Mesa.Mesa;
+import AbstractFactory.TiposDeProductos.Silla.Silla;
+import AbstractFactory.TiposDeProductos.Sofa.Sofa;
 
 import java.util.Objects;
 

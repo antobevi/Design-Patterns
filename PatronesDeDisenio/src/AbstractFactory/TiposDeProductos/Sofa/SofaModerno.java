@@ -1,4 +1,4 @@
 package AbstractFactory.TiposDeProductos.Sofa;
 
-public class SofaModerno {
+public class SofaModerno extends Sofa {
 }

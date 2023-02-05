@@ -36,7 +36,7 @@ Practica y explicación de los patrones de diseño.
   debe funcionar el código.
 * Se utiliza cuando se quiere ahorrar recursos del sistema mediante la reutilizacion de objetos existentes en
   lugar de construirlos una y otra vez.
-* Si hay demasiados productos, combiene el Abstract Factory.
+* Si hay demasiados productos, conviene el Abstract Factory.
 * Es un caso particular del Template Method (que delega comportamiento).
 
 #### Ventajas y Desventajas
@@ -47,10 +47,20 @@ Practica y explicación de los patrones de diseño.
 * Permite una abstracción simple para obtener un objeto determinado con valores ya definidos, sólo llamas al objeto creador.
 * Puede ser que el código se complique, ya que tenes incorporar una multitud de nuevas subclases para implementar el patrón.
 ### Abstract Factory
-...
+#### ¿Cuándo usarlo?
+* .
 
+#### Ventajas y Desventajas
+* .
 ### Builder
-...
+#### ¿Cuándo usarlo?
+* .
 
+#### Ventajas y Desventajas
+* .
 ### Singleton
-...
+#### ¿Cuándo usarlo?
+* .
+
+#### Ventajas y Desventajas
+* .

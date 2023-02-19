@@ -64,7 +64,7 @@ public class Application {
         if(command != null) {
             command.undo();
         }
-        
+
     }
 
 }

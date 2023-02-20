@@ -17,7 +17,6 @@ public class PlayingState extends State {
     }
 
     public void clickPlay() {
-        player.startPlayback();
         player.changeState(this);
     }
 

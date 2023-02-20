@@ -63,10 +63,5 @@ public class AudioPlayer {
     public void previousSong() {
         this.currentSong = playlist.previousSong(this.currentSong);
     }
-    public void startPlayback() {}
-
-    public void stopPlayback() {}
-
-    public void rewind(Double time) {}
 
 }
